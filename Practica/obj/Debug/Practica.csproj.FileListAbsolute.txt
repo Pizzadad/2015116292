@@ -1,0 +1,8 @@
+c:\users\christian\documents\visual studio 2017\Projects\Practica\Practica\bin\Debug\Practica.Entidades.dll
+c:\users\christian\documents\visual studio 2017\Projects\Practica\Practica\bin\Debug\Practica.Entidades.pdb
+c:\users\christian\documents\visual studio 2017\Projects\Practica\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
+C:\Users\CHRISTIAN\Documents\Visual Studio 2017\Projects\Practica\Practica\bin\Debug\2015116292.exe.config
+C:\Users\CHRISTIAN\Documents\Visual Studio 2017\Projects\Practica\Practica\bin\Debug\2015116292.exe
+C:\Users\CHRISTIAN\Documents\Visual Studio 2017\Projects\Practica\Practica\bin\Debug\2015116292.pdb
+C:\Users\CHRISTIAN\Documents\Visual Studio 2017\Projects\Practica\Practica\obj\Debug\2015116292.exe
+C:\Users\CHRISTIAN\Documents\Visual Studio 2017\Projects\Practica\Practica\obj\Debug\2015116292.pdb
