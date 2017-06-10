@@ -1,5 +1,0 @@
-c:\Users\christian\documents\visual studio 2017\Projects\Practica\Practica.Entidades\bin\Debug\Practica.Entidades.dll
-c:\Users\christian\documents\visual studio 2017\Projects\Practica\Practica.Entidades\bin\Debug\Practica.Entidades.pdb
-c:\Users\christian\documents\visual studio 2017\Projects\Practica\Practica.Entidades\obj\Debug\Practica.Entidades.csprojResolveAssemblyReference.cache
-c:\Users\christian\documents\visual studio 2017\Projects\Practica\Practica.Entidades\obj\Debug\Practica.Entidades.dll
-c:\Users\christian\documents\visual studio 2017\Projects\Practica\Practica.Entidades\obj\Debug\Practica.Entidades.pdb
